@@ -1,0 +1,11 @@
+.input-box{
+	display: flex;
+}
+.input-box img{
+	width: 25px;
+	height: 25px;
+	padding-top: 5px;
+	cursor: pointer;
+}
+
+
